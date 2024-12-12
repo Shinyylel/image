@@ -1,0 +1,11 @@
+Thanks for visiting The Vault at Vimm's Lair.
+
+	vimm.net
+
+This GameCube CISO was created with NKit2 alpha 64 from the following Redump ISO.
+
+Tom Clancy's Rainbow Six 3 (USA).iso
+CRC:   AAFA9DA8
+MD5:   3FC75E64761569B55D4A500424BDE572
+SHA-1: 2FE964566B77AA12C75E43F1B72E7AB8BCE56205
+Date:  2022-09-23
